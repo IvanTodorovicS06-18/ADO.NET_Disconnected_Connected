@@ -1,0 +1,24 @@
+C:\Users\todor\source\repos\KonectedKlasa\bin\Debug\KonectedKlasa.exe.config
+C:\Users\todor\source\repos\KonectedKlasa\bin\Debug\KonectedKlasa.exe
+C:\Users\todor\source\repos\KonectedKlasa\bin\Debug\KonectedKlasa.pdb
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.csprojAssemblyReference.cache
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.Form1.resources
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.Properties.Resources.resources
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.csproj.GenerateResource.cache
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.exe
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.pdb
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.InsertForma.resources
+C:\Users\todor\source\repos\KonectedKlasa\obj\Debug\KonectedKlasa.UpdateForma.resources
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\bin\Debug\KonectedKlasa.exe.config
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\bin\Debug\KonectedKlasa.exe
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\bin\Debug\KonectedKlasa.pdb
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.csprojAssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.Form1.resources
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.InsertForma.resources
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.Properties.Resources.resources
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.UpdateForma.resources
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.csproj.GenerateResource.cache
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.exe
+C:\Users\todor\OneDrive\Desktop\Prvi kolokvijum-Ivan\KonectedKlasa\obj\Debug\KonectedKlasa.pdb
